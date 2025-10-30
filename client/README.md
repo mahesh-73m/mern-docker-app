@@ -22,21 +22,21 @@ Folder Structure
 
 
 client/
-├── public/
-├── src/
-│   ├── assets/          # Images, icons, static files
-│   ├── components/      # Reusable UI components
-│   ├── App.css
-│   ├── App.jsx
-│   ├── index.css
-│   ├── main.jsx         # Entry point
-│   └── ...other files
-├── .gitignore
-├── Dockerfile
-├── eslint.config.js
-├── index.html
-├── package.json
-├── package-lock.json
-├── vite.config.js
+├─ ─ public/
+├─ ─ src/
+│   ├─ ─ assets/          # Images, icons, static files
+│   ├─ ─ components/      # Reusable UI components
+│   ├─ ─ App.css
+│   ├─ ─ App.jsx
+│   ├─ ─ index.css
+│   ├─ ─ main.jsx         # Entry point
+│   └─ ─ ...other files
+├─ ─ .gitignore
+├─ ─ Dockerfile
+├─ ─ eslint.config.js
+├─ ─ index.html
+├─ ─ package.json
+├─ ─ package-lock.json
+├─ ─ vite.config.js
 └── README.md
 
