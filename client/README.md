@@ -19,6 +19,8 @@ It serves as the frontend user interface and interacts with the backend API thro
 ## 🛠️ Getting Started
 
 Folder Structure
+
+
 client/
 ├── public/
 ├── src/
