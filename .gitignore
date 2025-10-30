@@ -1,0 +1,22 @@
+# Node dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Docker files
+*.log
+docker-compose.override.yml
+.docker/
+
+# Environment
+.env
+.env.*
+
+# Build outputs
+build/
+dist/
+
+# System / IDE
+.DS_Store
+.vscode/
+.idea/
